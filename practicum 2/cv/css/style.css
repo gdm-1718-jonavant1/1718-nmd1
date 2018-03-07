@@ -1,0 +1,35 @@
+body{
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    color:#F4A460;
+    font-size: 3.8rem;
+    margin-bottom: -10px;
+}
+p{
+    color: white;
+    font-size: 1,5rem;
+    text-align: left;
+    padding-left: 30px;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+img{
+    width: 480px;
+    height: auto;
+    margin-top: -110px;
+    margin-bottom: -100px;
+}
+.vaardigheden{
+    padding-left: 60px;
+    color: white;
+}
+
